@@ -1,0 +1,3 @@
+101,John Doe,20,Computer Science
+1,ram,10,maths
+1,emily,10,nomajor
